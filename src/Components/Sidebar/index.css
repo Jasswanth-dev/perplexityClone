@@ -1,0 +1,182 @@
+.sidebar{
+    width: 200px;
+    position: fixed;
+    background-color: #f2f3ed;
+    height: 100%;
+}
+
+.close-btn{
+    background-color: transparent;
+    border: 0;
+}
+
+.new-thread-btn{
+    background-color: #fcfdf8;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: 3px solid transparent;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    max-width: 95%;
+    color: grey;
+}
+
+.new-thread-btn:hover{
+    border: 3px solid #497b82;
+}
+
+.cmd-txt{
+    border:1px solid #d7d9ce;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.nav-item{
+    padding: 10px;
+    color: grey;
+    font-weight: bold;
+    text-decoration: none;
+}
+.nav-item:hover{
+    background-color: #d7d9ce;
+}
+
+.warning{
+    color: grey;
+    font-size: 13px;
+    margin: 10px;
+    border: 1px solid #d7d9ce;
+}
+
+.learn-more-btn{
+    padding: 9px;
+    background-color: #d7d9ce;
+    border: 0;
+    border-radius: 3px;
+}
+    
+.incognito-btn{
+    background-color: #12353d;
+    border-radius: 20px;
+    padding: 3px;
+    color: white;
+    width: 130px;
+}
+
+.incognito-img-container{
+    padding: 1px 2px 1px 2px;
+    background-color: white;
+    border-radius: 100px;
+}
+
+.horizontal-line{
+    border: 1px solid #d7d9ce;
+    width: 100%;
+    margin: 0px;
+}
+
+
+.pointer{
+    cursor: pointer;
+}
+
+
+.p-1{
+    padding: 10px;
+}
+.p{
+    padding: 5px;
+}
+.mr-1{
+    margin-right: 10px;
+}
+
+.mt{
+    margin-top: 5px;
+}
+
+.mt-1{
+    margin-top: 10px;
+}
+
+.mt-2{
+    margin-top: 20px;
+}
+
+.mb{
+    margin-bottom: 5px;
+}
+
+.mb-1{
+    margin-bottom: 10px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left;
+}
+.w-100{
+    width: 100%;
+}
+
+.d-flex{
+    display: flex;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-row{
+    flex-direction: row;
+}
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-start{
+    justify-content: flex-start;
+}
+
+.justify-content-end{
+    justify-content: flex-end;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.justify-content-around{
+    justify-content: space-around;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.align-items-start{
+    align-items: flex-start;
+}
+
+.align-items-end{
+    align-items: flex-end;
+}
+
+.align-self-center{
+    align-self: center;
+}
+
+.align-self-start{
+    align-self: flex-start;
+}
+
+.align-self-end{
+    align-self: flex-end;
+}
+.align-self-stretch{
+    align-self: stretch;
+}
+
+
