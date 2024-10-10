@@ -1,0 +1,36 @@
+
+.smallfeed-card{
+    background-color: #f2f3ed;
+    max-width: 225px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.image{
+    height: 150px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.details{
+    max-height: 100px;
+    overflow: hidden;
+}
+
+p{
+    font-size: 15px;
+}
+
+.postedby-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.postedby{
+    display: flex;
+    align-items: center;
+}
+.bookmark{
+    color: #969791;
+}
