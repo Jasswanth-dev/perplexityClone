@@ -1,0 +1,62 @@
+.discover-bg-container{
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    
+}
+
+.main-container{
+    max-width: 700px;
+    
+}
+
+.discover-nav-bar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.discover-nav-item{
+    border: 0;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.discover-nav-item:hover {
+    background-color: #d7d9ce;
+}
+
+.feeds-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.horizontal-line{
+    border: 1px solid #d7d9ce;
+    margin-bottom: 10px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.d-none{
+    display: none;
+}
+
+.feedpage-bg-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 20px;
+    padding-right: 100px;
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 100vh;
+}
+
