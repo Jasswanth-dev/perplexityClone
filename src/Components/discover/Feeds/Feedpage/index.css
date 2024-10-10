@@ -1,0 +1,110 @@
+.feed-container{
+    width: 80%;
+}
+
+.header{
+    background-color: white;
+    width: 86%;
+    padding: 3px;
+    position: fixed;
+    top: 0;
+    left: 200px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-bottom: 1px solid #f3f6ef;;
+}
+
+.share{
+    background-color: #21808d;
+    color: white;
+    padding: 0 10px 0 0;
+    
+}
+.link{
+    padding: 5px;
+}
+
+.bookmark{
+    border-radius: 5px;
+    padding: 7px;
+    border: 1px solid #f3f6ef;
+}
+
+.feed-page-image{
+    margin-top: 50px;
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.feed-page-image:hover{
+    transform: scale(1.03);
+    transition: transform 0.5s ease-out;
+}
+
+.feed-content{
+    width: 70%;
+}
+
+.followup-bg-container{
+    border-radius: 40px;
+    position: fixed;
+    bottom: 30px;
+    width: 50%;
+    background-color:  #f3f6ef;
+    
+}
+
+.followup{
+    border-radius: 30px;
+    border: 1px solid #dcddd6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 7px;
+    padding: 10px;
+    background-color: white;
+}
+
+.followupinput{
+    width: 100%;
+    padding: 5px;
+    border: 0;
+    outline: none;
+}
+
+.probutton{
+    width: 35px;
+    border: 1px solid #dcddd6 ;
+    padding: 3px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.inline-circle{
+    border-radius: 100px;
+    background-color: #64655f;
+    width: 15px;
+    height: 15px;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.mr{
+    margin-right: 5px;
+}
+
+.m-1{
+    margin: 10px;
+}
+.icon{
+    background-color: #f3f6ef;
+    padding: 10px;
+    border-radius: 50px;
+
+}
