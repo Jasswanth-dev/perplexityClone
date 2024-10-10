@@ -1,0 +1,47 @@
+.feed-card{
+    background-color: #f2f3ed;
+    border-radius: 10px;
+    max-width: 700px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.feed-image{
+    height: 250px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 0;
+}
+
+.details{
+    padding: 10px;
+    max-height: 100px;
+    overflow: hidden;
+}
+
+.postedby-container{
+    display: flex;
+    align-self: flex-end;
+    justify-content: space-between;
+    padding: 5px 10px 5px 10px;
+}
+.postedby{
+    display: flex;
+    align-items: center;
+}
+.profile-img{
+    height: 24px;
+    width: 24px;
+    border-radius: 100px;
+    margin-right: 5px;
+}
+
+.d-none{
+    display: none;
+}
+
+.bookmark{
+    color: #969791;
+}
