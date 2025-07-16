@@ -18,7 +18,7 @@ A sleek and responsive **UI clone** of the popular AI-powered search assistant, 
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js  
-- **Styling**: Custom CSS / Styled Components (as applicable)  
+- **Styling**: Custom CSS 
 - **Deployment**: Vercel  
 
 ## 🚀 Getting Started
